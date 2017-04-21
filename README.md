@@ -123,4 +123,4 @@ Configuration files inside this docker are read in the following order:
 
 **[Version]**
 
-mysqld  Ver 10.1.22-MariaDB for Linux on x86_64 (MariaDB Server)
+mysqld  Ver 10.0.30-MariaDB for Linux on x86_64 (MariaDB Server)
