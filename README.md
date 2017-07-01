@@ -1,12 +1,12 @@
 # MariaDB 10.0 Docker
 
-<small>**Latest build:** 2017-05-21</small>
+<small>**Latest build:** 2017-07-01</small>
 
 [![Build Status](https://travis-ci.org/cytopia/docker-mariadb-10.0.svg?branch=master)](https://travis-ci.org/cytopia/docker-mariadb-10.0) [![](https://images.microbadger.com/badges/version/cytopia/mariadb-10.0.svg)](https://microbadger.com/images/cytopia/mariadb-10.0 "mariadb-10.0") [![](https://images.microbadger.com/badges/image/cytopia/mariadb-10.0.svg)](https://microbadger.com/images/cytopia/mariadb-10.0 "mariadb-10.0") [![](https://images.microbadger.com/badges/license/cytopia/mariadb-10.0.svg)](https://microbadger.com/images/cytopia/mariadb-10.0 "mariadb-10.0")
 
 [![cytopia/mariadb-10.0](http://dockeri.co/image/cytopia/mariadb-10.0)](https://hub.docker.com/r/cytopia/mariadb-10.0/)
 
-**[mysql 5.5](https://github.com/cytopia/docker-mysql-5.5) | [mysql 5.6](https://github.com/cytopia/docker-mysql-5.6) | [mysql 5.7](https://github.com/cytopia/docker-mysql-5.7) | [mysql 8.0](https://github.com/cytopia/docker-mysql-8.0) | [mariadb 5.5](https://github.com/cytopia/docker-mariadb-5.5) | mariadb 10.0 | [mariadb 10.1](https://github.com/cytopia/docker-mariadb-10.1) | [mariadb 10.2](https://github.com/cytopia/docker-mariadb-10.2) | [mariadb 10.3](https://github.com/cytopia/docker-mariadb-10.3)**
+**[mysql 5.5](https://github.com/cytopia/docker-mysql-5.5) | [mysql 5.6](https://github.com/cytopia/docker-mysql-5.6) | [mysql 5.7](https://github.com/cytopia/docker-mysql-5.7) | [mysql 8.0](https://github.com/cytopia/docker-mysql-8.0) | [mariadb 5.5](https://github.com/cytopia/docker-mariadb-5.5) | mariadb 10.0 | [mariadb 10.1](https://github.com/cytopia/docker-mariadb-10.1) | [mariadb 10.2](https://github.com/cytopia/docker-mariadb-10.2) | [mariadb 10.3](https://github.com/cytopia/docker-mariadb-10.3) | [percona 5.5](https://github.com/cytopia/docker-percona-5.5) | [percona 5.6](https://github.com/cytopia/docker-percona-5.6) | [percona 5.7](https://github.com/cytopia/docker-percona-5.7) | [percona 5.5](https://github.com/cytopia/docker-percona-5.5) | [percona 5.6](https://github.com/cytopia/docker-percona-5.6) | [percona 5.7](https://github.com/cytopia/docker-percona-5.7)**
 
 ----
 
@@ -124,4 +124,4 @@ Configuration files inside this docker are read in the following order:
 
 **[Version]**
 
-mysqld  Ver 10.0.30-MariaDB for Linux on x86_64 (MariaDB Server)
+mysqld  Ver 10.0.31-MariaDB for Linux on x86_64 (MariaDB Server)
